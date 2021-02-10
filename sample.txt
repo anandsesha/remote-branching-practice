@@ -1,1 +1,2 @@
 This is the first file called sample.
+This is the second file in the file called sample. Done for issue1 fix.
